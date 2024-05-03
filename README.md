@@ -36,8 +36,7 @@ Those who want to manage their shopping history in Excel format.
 Shopping Receipt Tracking Application helps users to make more conscious shopping by enabling them to easily manage their shopping history. Thanks to the export feature in Excel format, users can analyse their shopping expenses in detail and make budget planning when necessary.
 
 # Screenshots
-![Screenshot_1714417273](https://github.com/sultangorgulu/find_bill/assets/95881685/992d9741-7762-4ea0-8760-371d904e0f4e)
-![Screenshot_1714417240](https://github.com/sultangorgulu/find_bill/assets/95881685/76dfe549-21ff-4cd7-9585-5bb4a64e7d8a)
-![Screenshot_1714417277](https://github.com/sultangorgulu/find_bill/assets/95881685/43dc58eb-eca7-47d0-b1a8-13fb0ac584de)
+![Screenshot_1714417240](https://github.com/sultangorgulu/find_bill/assets/95881685/91baf88a-6fcf-4253-b46a-add52e606f6a)![Screenshot_1714417273](https://github.com/sultangorgulu/find_bill/assets/95881685/0aff65c7-8257-4f40-a2b2-608c689e28c4)
+![Screenshot_1714417281](https://github.com/sultangorgulu/find_bill/assets/95881685/1f2c959f-d1a8-4c4f-a9e2-88436b950e33)
 
-![Screenshot_1714417281](https://github.com/sultangorgulu/find_bill/assets/95881685/83d92c0b-8f7b-484b-bf26-bb380d642d75)
+![Screenshot_1714417277](https://github.com/sultangorgulu/find_bill/assets/95881685/5661fb32-4405-477a-a996-cfaa33a0d212)
