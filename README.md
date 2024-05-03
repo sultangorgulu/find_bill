@@ -1,4 +1,4 @@
-# Find Bill
+# Find Bill (Software Engineering Course Project)
 
 Shopping Receipt Tracking Application
 
